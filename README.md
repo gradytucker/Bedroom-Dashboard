@@ -1,5 +1,5 @@
 # dashboard
-*information dashboard for my bedroom:
+information dashboard for my bedroom:
 
  
 -time based greeting
