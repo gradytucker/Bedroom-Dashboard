@@ -1,6 +1,6 @@
 (function() {
 
-  setInterval(weather, 1000);
+  setInterval(weather, 60 * 1000);
 
   $.simpleWeather({
     location: 'Wantirna South, Melbourne',
