@@ -3,6 +3,8 @@ information dashboard for my bedroom.
 
 -Time/date
  
--weather conditions
+-current weather conditions
+ 
+-5 day forecast
  
 -currently playing on spotify
