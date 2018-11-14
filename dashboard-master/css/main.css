@@ -65,6 +65,7 @@ section2 {
 
 .card-fore {
   background-color: rgba(20, 20, 20, 0.7);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
   margin-left: 885px;
   margin-right: 50px;
   z-index: 3;
@@ -89,6 +90,7 @@ section2 {
 
 .card-music {
     z-index: 1;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
   background-color: rgba(20, 20, 20, 0.7);
   margin-left: 50px;
   margin-right: 50px;
@@ -123,6 +125,7 @@ section2 {
 
 
 .card-green {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
   z-index: 2;
   background-color: rgba(20, 20, 20, 0.7);
   margin-left: 50px;
@@ -449,6 +452,7 @@ body .nowplayingcard .nowplayingcontainer-inner:hover {
 body .nowplayingcard .nowplayingcontainer-inner img#trackart {
   max-width: 400%;
   height: 250px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
   float: left;
   -webkit-border-top-left-radius: 3px;
   -moz-border-top-left-radius: 3px;
