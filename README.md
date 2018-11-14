@@ -1,4 +1,4 @@
-# dashboard
+# bedroom dashboard
 information dashboard for my bedroom:
 
  
