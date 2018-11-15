@@ -10,4 +10,4 @@ information dashboard for my bedroom:
  
 -5 day forecast
  
--currently playing on spotify
+-currently playing on spotify (via last.fm)
