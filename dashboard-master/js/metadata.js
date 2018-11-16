@@ -28,7 +28,7 @@ function updateMetadata(t) {
     let e = resources.track.current.artist,
         r = resources.track.current.title,
         a = resources.track.current.link;
-    $(".music .artist").text(e || "Nothing Playing..."), $(".music .title").text(r), $(".music .songLink").attr("href", a);
+    $(".music .artist").text(e || "[Paused]"), $(".music .title").text(r || "  ‍   "), $(".music .songLink").attr("href", a);
     let c = t && t.scrobbles;
     $(".scrobbles .scrobbleCount").text(c ? t.scrobbles : ""), toggleDisplay(".scrobbles", c), nowPlaying() ? (document.title = `"${r}" by ${e}`, cookieEnabled("extendedOn") && toggleDisplay(".userLine", !0)) : (document.title = "Descent", toggleDisplay(".userLine", !1), resetBackground()), fetchImages()
 }
