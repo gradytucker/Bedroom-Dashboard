@@ -2,7 +2,7 @@
 A dashboard screen for my bedroom, giving a brief overview on various local information
 
 # Functionality:
-- time based greeting
+- greeting based on the time of day
 - Time/date
 - current weather conditions
 - 5 day forecast
