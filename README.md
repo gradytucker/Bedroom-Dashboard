@@ -10,3 +10,5 @@ A dashboard screen for my bedroom, giving a brief overview on various local info
 
 # Instructions:
 - open in fullscreen in browser
+
+![Screenshot](screen Shot.png)
